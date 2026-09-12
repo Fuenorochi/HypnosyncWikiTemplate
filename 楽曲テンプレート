@@ -1,0 +1,54 @@
+TITLE:(楽曲名)
+
+* 概要 [#overview]
+
+|CENTER:90|CENTER:|c
+|>|SIZE(18):''&ruby(){};''|h
+|コンポーザー||
+|BPM||
+|拍子||
+|演奏時間||
+|キャラクター||
+|曲番||
+|解禁条件||
+|追加ver.||
+
+#br
+
+// キャラクターのページには、
+// [[(キャラクター名)>一覧/キャラクター/(キャラクター名)]]
+// と記入
+
+|>|>|CENTER:|c
+|''難易度''|''レベル''|''総ノーツ数''|h
+|BGCOLOR(#ffe999):[[BASIC>一覧/収録楽曲/(楽曲名)/BASIC]]|||
+|BGCOLOR(#99e4ff):[[NORMAL>一覧/収録楽曲/(楽曲名)/NORMAL]]|||
+|BGCOLOR(#ff99ac):[[TRANCE>一覧/収録楽曲/(楽曲名)/TRANCE]]|||
+
+#br
+
+* 楽曲詳細 [#detail]
+
+** 楽曲について [#about]
+
+** 通称 [#commonname]
+
+// 番号なしリスト表記で記入
+
+** 他に収録されている音楽ゲーム [#othermusicgame]
+
+// 番号なしリスト表記で記入
+
+// 公式音源があり次第、記入してください。
+#accordion(音源,**,close){{
+// #soundcloud()
+// #youtube()
+}}
+
+* その他 [#other]
+
+** 余談 [#sidenote]
+
+* コメント [#comment]
+
+#zcomment(t=hypnosync%2F(トピック番号)&style=wikiwiki&h=350&size=10)
