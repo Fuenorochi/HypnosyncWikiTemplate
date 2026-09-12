@@ -1,0 +1,98 @@
+TITLE:(楽曲名) | (難易度)
+
+#includex(一覧/収録楽曲/(楽曲名),section=(filter=追加楽曲),titlestr=off,firsthead=off)
+
+// 難易度がTRANCEの場合、以下のコメントアウトを解除
+
+// * DAZE条件 [#daze_condition]
+
+// |>|>|CENTER:|c
+// ||''条件''|''備考''|h
+// |>|CENTER:||c
+// |BGCOLOR(#ffe999):黄|||
+// |BGCOLOR(#99e4ff):青|||
+// |BGCOLOR(#ff99ac):赤|||
+
+* ノーツ [#notes]
+
+|>|>|>|>|>|CENTER:|c
+|''ノーツ''|>|>|>|''レーン''|''合計''|h
+|~|''1''|''2''|''3''|''4''|~|h
+|BGCOLOR(#99e4ff):抑制||||||
+|BGCOLOR(#ff99ac):欲望||||||
+|BGCOLOR(#ffe999):意図||||||
+|BGCOLOR(#d99aff):判断||||||
+|BGCOLOR(#cdcdcd):指向(左)|>|>|>|||
+|BGCOLOR(#cdcdcd):指向(上)|>|>|>|||
+|BGCOLOR(#cdcdcd):指向(右)|>|>|>|||
+|BGCOLOR(#cdcdcd):指向(下)|>|>|>|||
+|''合計''||||||
+
+#br
+
+* 譜面 [#score]
+
+*** 難所 [#diff_point]
+
+- 
+- 
+
+*** 攻略・コツ [#tips]
+
+- 
+- 
+
+#accordion(譜面画像,***,close){{
+// &attachref(編集/画像/graph_denctra_(Wiki用楽曲ID)_(難易度).webp,nolink);
+}}
+
+#accordion(譜面動画,***,close){{
+// #youtube((ビデオID)?rel=0)
+}}
+
+* 譜面統計 [#statics]
+
+#flex_container(flex-start){{{
+#flex_box{{
+|>|CENTER:|c
+|''項目''|''値''|h
+|密度||
+|秒間密度&br;(最高)||
+|秒間密度&br;(標準偏差)||
+|同時押し回数||
+|同時押し平均密度||
+|同時押し平均コスト||
+|同時押し最高コスト||
+|単位重心位置&br;(カラーノーツ)|X: &br;Y: ~ |
+|単位重心位置&br;(指向)|X: &br;Y: |
+}}
+#flex_box{{
+|>|CENTER:|c
+|''項目''|''値''|h
+|ノーツエントロピー||
+|秒間ノーツエントロピー&br;(最高)||
+|秒間ノーツエントロピー&br;(標準偏差)||
+|相対距離エントロピー||
+|秒間相対距離エントロピー&br;(最高)||
+|秒間相対距離エントロピー&br;(標準偏差)||
+|時間間隔エントロピー||
+}}
+}}}
+
+#accordion(グラフ,**,close){{{{
+#tab_container{{{
+#tab_content(秒間密度推移){{
+// &attachref(編集/画像/graph_denctra_(Wiki用楽曲ID)_(難易度).webp,nolink);
+}}
+#tab_content(秒間エントロピー推移){{
+// &attachref(編集/画像/graph_entrotra_(Wiki用楽曲ID)_(難易度).webp,nolink);
+}}
+#tab_content(秒間単位重心位置推移(カラーノーツ)){{
+// &attachref(編集/画像/graph_egpcolortra_(Wiki用楽曲ID)_(難易度).webp,nolink);
+}}
+}}}
+}}}}
+
+* コメント [#comment]
+
+#zcomment(t=hypnosync%2F(トピック番号)&style=wikiwiki&h=350&size=10)
