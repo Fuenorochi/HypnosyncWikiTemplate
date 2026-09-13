@@ -1,6 +1,6 @@
 TITLE:(楽曲名) | (難易度)
 
-#includex(一覧/収録楽曲/(楽曲名),section=(filter=追加楽曲),titlestr=off,firsthead=off)
+#includex(一覧/収録楽曲/(楽曲名),section=(filter=概要),titlestr=off,firsthead=off)
 
 // * DAZE条件 [#daze_condition]
 
