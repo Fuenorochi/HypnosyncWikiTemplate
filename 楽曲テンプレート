@@ -4,14 +4,14 @@ TITLE:(楽曲名)
 
 |CENTER:90|CENTER:|c
 |>|SIZE(18):''&ruby(){};''|h
-|コンポーザー||
-|BPM||
-|拍子||
-|演奏時間||
-|キャラクター||
-|曲番||
-|解禁条件||
-|追加ver.||
+|コンポーザー|(コンポーザー名)|
+|BPM|(BPM)|
+|拍子|(拍子)|
+|演奏時間|(演奏時間)|
+|キャラクター|(キャラクター名)|
+|曲ID|(曲ID)|
+|解禁条件|(解禁条件)|
+|追加ver.|(追加ver.)|
 
 #br
 
@@ -29,26 +29,23 @@ TITLE:(楽曲名)
 
 * 楽曲詳細 [#detail]
 
-** 楽曲について [#about]
-
 ** 通称 [#commonname]
 
-// 番号なしリスト表記で記入
+// 番号なしリストで記入
 
 ** 他に収録されている音楽ゲーム [#othermusicgame]
 
-// 番号なしリスト表記で記入
+// 番号なしリストで記入
 
-// 公式音源があり次第、記入してください。
-#accordion(音源,**,close){{
+// #accordion(公式音源,**,close){{
 // #soundcloud()
 // #youtube()
-}}
+// }}
 
 * その他 [#other]
 
 ** 余談 [#sidenote]
 
-* コメント [#comment]
+// * コメント [#comment]
 
-#zcomment(t=hypnosync%2F(トピック番号)&style=wikiwiki&h=350&size=10)
+// #zcomment(t=hypnosync%2F(トピック番号)&style=wikiwiki&h=350&size=10)
