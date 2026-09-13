@@ -15,10 +15,6 @@ TITLE:(楽曲名)
 
 #br
 
-// キャラクターのページには、
-// [[(キャラクター名)>一覧/キャラクター/(キャラクター名)]]
-// と記入
-
 |>|>|CENTER:|c
 |''難易度''|''レベル''|''総ノーツ数''|h
 |BGCOLOR(#ffe999):[[BASIC>一覧/収録楽曲/(楽曲名)/BASIC]]|||
@@ -38,8 +34,10 @@ TITLE:(楽曲名)
 // 番号なしリストで記入
 
 // #accordion(公式音源,**,close){{
-// #soundcloud()
-// #youtube()
+- SoundCloud
+// #soundcloud((トラックID))
+- YouTube
+// #youtube((ビデオID)?rel=0)
 // }}
 
 * その他 [#other]
@@ -48,4 +46,4 @@ TITLE:(楽曲名)
 
 // * コメント [#comment]
 
-// #zcomment(t=hypnosync%2F(トピック番号)&style=wikiwiki&h=350&size=10)
+// #zcomment(t=hypnosync%2F(トピックID)&style=wikiwiki&h=350&size=10)
