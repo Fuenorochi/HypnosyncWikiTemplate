@@ -39,7 +39,7 @@ TITLE:(楽曲名) | (難易度)
 // 番号なしリストで記入
 
 // #accordion(譜面画像,***,close){{
-// &attachref(編集/画像/graph_denctra_(Wiki用楽曲ID)_(難易度).webp,nolink);
+// &attachref(編集/画像/chartimage_(楽曲ID)_(難易度).webp,nolink);
 // }}
 
 // #accordion(譜面動画,***,close){{
@@ -48,4 +48,4 @@ TITLE:(楽曲名) | (難易度)
 
 // * コメント [#comment]
 
-// #zcomment(t=hypnosync%2F(トピック番号)&style=wikiwiki&h=350&size=10)
+// #zcomment(t=hypnosync%2F(トピックID)&style=wikiwiki&h=350&size=10)
