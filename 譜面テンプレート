@@ -2,8 +2,6 @@ TITLE:(楽曲名) | (難易度)
 
 #includex(一覧/収録楽曲/(楽曲名),section=(filter=追加楽曲),titlestr=off,firsthead=off)
 
-// 難易度がTRANCEの場合、以下のコメントアウトを解除
-
 // * DAZE条件 [#daze_condition]
 
 // |>|>|CENTER:|c
@@ -34,65 +32,20 @@ TITLE:(楽曲名) | (難易度)
 
 *** 難所 [#diff_point]
 
-- 
-- 
+// 番号なしリストで記入
 
 *** 攻略・コツ [#tips]
 
-- 
-- 
+// 番号なしリストで記入
 
-#accordion(譜面画像,***,close){{
+// #accordion(譜面画像,***,close){{
 // &attachref(編集/画像/graph_denctra_(Wiki用楽曲ID)_(難易度).webp,nolink);
-}}
+// }}
 
-#accordion(譜面動画,***,close){{
+// #accordion(譜面動画,***,close){{
 // #youtube((ビデオID)?rel=0)
-}}
+// }}
 
-* 譜面統計 [#statics]
+// * コメント [#comment]
 
-#flex_container(flex-start){{{
-#flex_box{{
-|>|CENTER:|c
-|''項目''|''値''|h
-|密度||
-|秒間密度&br;(最高)||
-|秒間密度&br;(標準偏差)||
-|同時押し回数||
-|同時押し平均密度||
-|同時押し平均コスト||
-|同時押し最高コスト||
-|単位重心位置&br;(カラーノーツ)|X: &br;Y: ~ |
-|単位重心位置&br;(指向)|X: &br;Y: |
-}}
-#flex_box{{
-|>|CENTER:|c
-|''項目''|''値''|h
-|ノーツエントロピー||
-|秒間ノーツエントロピー&br;(最高)||
-|秒間ノーツエントロピー&br;(標準偏差)||
-|相対距離エントロピー||
-|秒間相対距離エントロピー&br;(最高)||
-|秒間相対距離エントロピー&br;(標準偏差)||
-|時間間隔エントロピー||
-}}
-}}}
-
-#accordion(グラフ,**,close){{{{
-#tab_container{{{
-#tab_content(秒間密度推移){{
-// &attachref(編集/画像/graph_denctra_(Wiki用楽曲ID)_(難易度).webp,nolink);
-}}
-#tab_content(秒間エントロピー推移){{
-// &attachref(編集/画像/graph_entrotra_(Wiki用楽曲ID)_(難易度).webp,nolink);
-}}
-#tab_content(秒間単位重心位置推移(カラーノーツ)){{
-// &attachref(編集/画像/graph_egpcolortra_(Wiki用楽曲ID)_(難易度).webp,nolink);
-}}
-}}}
-}}}}
-
-* コメント [#comment]
-
-#zcomment(t=hypnosync%2F(トピック番号)&style=wikiwiki&h=350&size=10)
+// #zcomment(t=hypnosync%2F(トピック番号)&style=wikiwiki&h=350&size=10)
