@@ -29,11 +29,11 @@ TITLE:(楽曲名)
 
 // 番号なしリストで記入
 
-** 他に収録されている音楽ゲーム [#othermusicgame]
+** 変更履歴 [#changed_history]
 
 // 番号なしリストで記入
 
-** 変更履歴 [#changed_history]
+** 他に収録されている音楽ゲーム [#othermusicgame]
 
 // 番号なしリストで記入
 
